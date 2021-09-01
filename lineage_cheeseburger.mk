@@ -48,3 +48,4 @@ TARGET_VENDOR := oneplus
 
 # Sakura stuff
 SAKURA_MAINTAINER := SirRGB
+SAKURA_BUILD_TYPE := basicgapps
