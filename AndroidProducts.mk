@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/radiant_cheeseburger.mk
+    $(LOCAL_DIR)/amy_cheeseburger.mk
 
 COMMON_LUNCH_CHOICES := \
-    radiant_cheeseburger-user \
-    radiant_cheeseburger-userdebug \
-    radiant_cheeseburger-eng
+    amy_cheeseburger-user \
+    amy_cheeseburger-userdebug \
+    amy_cheeseburger-eng
