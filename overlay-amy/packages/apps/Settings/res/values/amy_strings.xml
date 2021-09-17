@@ -11,6 +11,6 @@
     <string name="amy_chipset_type_summary">Qualcomm Snapdragon 835</string>
     <string name="amy_gpu_summary">Qualcomm Adreno 540</string>
     <string name="amy_camera_mp_summary">16MP + 20MP Camera</string>
-    <string name="amy_screen_type_summary">AMOLED FHD 5.5'" Screen</string>
+    <string name="amy_screen_type_summary">AMOLED FHD 5.5" Screen</string>
 
 </resources>
