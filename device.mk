@@ -26,7 +26,6 @@ $(call inherit-product, vendor/oneplus/cheeseburger/cheeseburger-vendor.mk)
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
-<<<<<<< HEAD
      $(LOCAL_PATH)/overlay \
      $(LOCAL_PATH)/overlay-amy
 
