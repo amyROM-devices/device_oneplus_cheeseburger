@@ -6,8 +6,7 @@
     <string name="amyrom_maintainer">SirRGB</string>
 
     <!-- amyROM Device Info -->
-    <string name="amy_device_platform">MSM8998</string>
-    <string name="amy_device_platform_summary">OnePlus 5</string>
+    <string name="amy_device_platform_summary">MSM8998</string>
     <string name="amy_chipset_type_summary">Qualcomm Snapdragon 835</string>
     <string name="amy_gpu_summary">Qualcomm Adreno 540</string>
     <string name="amy_camera_mp_summary">16MP + 20MP Camera</string>
